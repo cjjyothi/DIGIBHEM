@@ -1,2 +1,3 @@
 # DIGIBHEM
- This is a calculator.
+I developed this calculator by using HTML,CSS and JS
+ 
